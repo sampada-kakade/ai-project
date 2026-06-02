@@ -152,14 +152,6 @@ You shouldn't have to rebuild the same RAG pipeline, agent loop, or MCP integrat
 *   [🎨 🍌 Multimodal UI/UX Feedback Agent Team with Nano Banana](advanced_ai_agents/multi_agent_apps/agent_teams/multimodal_uiux_feedback_agent_team/)
 *   [🌏 AI Travel Planner Agent Team](/advanced_ai_agents/multi_agent_apps/agent_teams/ai_travel_planner_agent_team/)
 
-### 🗣️ Voice AI Agents
-*Speech-in, speech-out agents using real-time voice APIs.*
-
-*   [🗣️ AI Audio Tour Agent](voice_ai_agents/ai_audio_tour_agent/)
-*   [📞 Customer Support Voice Agent](voice_ai_agents/customer_support_voice_agent/)
-*   [🛡️ Insurance Claim Live Agent Team](voice_ai_agents/insurance_claim_live_agent_team/)
-*   [🔊 Voice RAG Agent (OpenAI SDK)](voice_ai_agents/voice_rag_openaisdk/)
-*   [🎙️ OpenSource Voice Dictation Agent (Wispr Flow clone)](https://github.com/akshayaggarwal99/jarvis-ai-assistant) <sub>↗ external</sub>
 
 ### ♾️ MCP AI Agents
 *Agents that connect to external tools and data via Model Context Protocol.*
