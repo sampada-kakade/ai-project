@@ -278,7 +278,7 @@ You shouldn't have to rebuild the same RAG pipeline, agent loop, or MCP integrat
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Shubhamsaboo/awesome-llm-apps&type=Date)](https://star-history.com/#Shubhamsaboo/awesome-llm-apps&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=sampada-kakade/awesome-llm-apps&type=Date)](https://star-history.com/#Shubhamsaboo/awesome-llm-apps&Date)
 
 > 🌟 **Don't miss future drops - [star the repo](https://github.com/Shubhamsaboo/awesome-llm-apps) to get notified when new templates ship.**
 
