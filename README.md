@@ -68,8 +68,7 @@ You shouldn't have to rebuild the same RAG pipeline, agent loop, or MCP integrat
 <details open>
 <summary><strong>13 categories · Click to expand</strong></summary>
 
-- [🌱 Starter AI Agents](#-starter-ai-agents)
-- [🚀 Advanced AI Agents](#-advanced-ai-agents)
+
 - [🎮 Autonomous Game-Playing Agents](#-autonomous-game-playing-agents)
 - [🤝 Multi-agent Teams](#-multi-agent-teams)
 - [♾️ MCP AI Agents](#-mcp-ai-agents)
@@ -82,49 +81,7 @@ You shouldn't have to rebuild the same RAG pipeline, agent loop, or MCP integrat
 
 </details>
 
-## 📂 Featured AI Projects
 
-### 🌱 Starter AI Agents
-*Single-file agents that run with just an API key - a great place to start.*
-
-*   [🎙️ AI Blog to Podcast Agent](starter_ai_agents/ai_blog_to_podcast_agent/)
-*   [❤️‍🩹 AI Breakup Recovery Agent](starter_ai_agents/ai_breakup_recovery_agent/)
-*   [📊 AI Data Analysis Agent](starter_ai_agents/ai_data_analysis_agent/)
-*   [🩻 AI Medical Imaging Agent](starter_ai_agents/ai_medical_imaging_agent/)
-*   [😂 AI Meme Generator Agent (Browser)](starter_ai_agents/ai_meme_generator_agent_browseruse/)
-*   [🎵 AI Music Generator Agent](starter_ai_agents/ai_music_generator_agent/)
-*   [🛫 AI Travel Agent (Local & Cloud)](starter_ai_agents/ai_travel_agent/)
-*   [✨ Gemini Multimodal Agent](starter_ai_agents/gemini_multimodal_agent_demo/)
-*   [🔄 Mixture of Agents](starter_ai_agents/mixture_of_agents/)
-*   [📊 xAI Finance Agent](starter_ai_agents/xai_finance_agent/)
-*   [🔍 OpenAI Research Agent](starter_ai_agents/openai_research_agent/)
-*   [🕸️ Web Scraping AI Agent (Local & Cloud SDK)](starter_ai_agents/web_scraping_ai_agent/)
-
-### 🚀 Advanced AI Agents
-*Production-style agents with tools, memory, and multi-step reasoning.*
-
-*   [🏚️ 🍌 AI Home Renovation Agent with Nano Banana Pro](advanced_ai_agents/multi_agent_apps/ai_home_renovation_agent)
-*   [🧠 DevPulse AI - Multi-Agent Signal Intelligence](advanced_ai_agents/multi_agent_apps/devpulse_ai/)
-*   [🔍 AI Deep Research Agent](advanced_ai_agents/single_agent_apps/ai_deep_research_agent/)
-*   [📊 AI VC Due Diligence Agent Team](advanced_ai_agents/multi_agent_apps/agent_teams/ai_vc_due_diligence_agent_team)
-*   [🔬 AI Research Planner & Executor (Google Interactions API)](advanced_ai_agents/single_agent_apps/research_agent_gemini_interaction_api)
-*   [🤝 AI Consultant Agent](advanced_ai_agents/single_agent_apps/ai_consultant_agent)
-*   [🏗️ AI System Architect Agent](advanced_ai_agents/single_agent_apps/ai_system_architect_r1/)
-*   [💰 AI Financial Coach Agent](advanced_ai_agents/multi_agent_apps/ai_financial_coach_agent/)
-*   [🎬 AI Movie Production Agent](advanced_ai_agents/single_agent_apps/ai_movie_production_agent/)
-*   [📈 AI Investment Agent](advanced_ai_agents/single_agent_apps/ai_investment_agent/)
-*   [📡 Earnings Call Analyst Agent](advanced_ai_agents/single_agent_apps/earnings_call_analyst_agent/)
-*   [🏋️‍♂️ AI Health & Fitness Agent](advanced_ai_agents/single_agent_apps/ai_health_fitness_agent/)
-*   [🚀 AI Product Launch Intelligence Agent](advanced_ai_agents/multi_agent_apps/product_launch_intelligence_agent)
-*   [🔍 AI Fraud Investigation Agent](advanced_ai_agents/single_agent_apps/ai_fraud_investigation_agent/)
-*   [🗞️ AI Journalist Agent](advanced_ai_agents/single_agent_apps/ai_journalist_agent/)
-*   [🧠 AI Mental Wellbeing Agent](advanced_ai_agents/multi_agent_apps/ai_mental_wellbeing_agent/)
-*   [📑 AI Meeting Agent](advanced_ai_agents/single_agent_apps/ai_meeting_agent/)
-*   [🧬 AI Self-Evolving Agent](advanced_ai_agents/multi_agent_apps/ai_self_evolving_agent/)
-*   [👨🏻‍💼 AI Sales Intelligence Agent Team](advanced_ai_agents/multi_agent_apps/agent_teams/ai_sales_intelligence_agent_team)
-*   [🎧 AI Social Media News and Podcast Agent](advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/)
-*   [🌐 Openwork - Open Browser Automation Agent](https://github.com/accomplish-ai/openwork) <sub>↗ external</sub>
-*   [🛡️ Trust-Gated Multi-Agent Research Team](advanced_ai_agents/multi_agent_apps/trust_gated_agent_team/)
 
 ### 🎮 Autonomous Game-Playing Agents
 *Agents that play games end-to-end - reasoning, strategy, and action.*
